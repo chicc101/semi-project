@@ -4,3 +4,5 @@
 0:0:0:0:0:0:0:1 - - [22/Dec/2020:00:02:34 +0900] "GET /Coffeesazo/findPassword.html HTTP/1.1" 404 839
 0:0:0:0:0:0:0:1 - - [22/Dec/2020:00:02:43 +0900] "POST /Coffeesazo/login2.jsp HTTP/1.1" 200 3763
 0:0:0:0:0:0:0:1 - - [22/Dec/2020:00:02:43 +0900] "GET /Coffeesazo/css/index%20copy.css HTTP/1.1" 404 846
+127.0.0.1 - - [22/Dec/2020:01:44:00 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [22/Dec/2020:01:44:03 +0900] "GET /Coffeesazo/test.jsp HTTP/1.1" 200 40
