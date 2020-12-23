@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 C:\Users\團艙\Desktop\semi-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\273343368.index
 \Coffeesazo\src
+C:\Users\團艙\Desktop\semi-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1672894876.index
+\coffeesazo\src
 C:\Users\團艙\Desktop\semi-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4101930052.index
 \Coffeesazo\src
 C:\Users\團艙\Desktop\semi-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\715838921.index

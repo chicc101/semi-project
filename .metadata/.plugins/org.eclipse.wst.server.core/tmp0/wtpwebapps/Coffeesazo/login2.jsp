@@ -4,19 +4,23 @@
 <html lang="en">
 
 <head>
+
     <!--favicon-->
     <link rel="shortcut icon" href="https://p7.hiclipart.com/preview/988/211/651/white-coffee-tea-cafe-computer-icons-cup-of-coffee-icon.jpg">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COFFEESAZO</title>
-    <link rel=“stylesheet” href=“./css/bootstrap.min.css” type=“text/css”> 
-    <link rel="stylesheet" href="./css/index copy.css" type="text/css">
+    <title>로그인 | COFFEESAZO</title>
+    <link herf="./css/bootstrap.min.css" type="text/css" rel="stylesheet">
+
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/header-footer.css" type="text/css">
     <link href="./css/login2.css" rel="stylesheet" type="text/css" />
+    
 </head>
 
 <body>
+    <!-- header 시작 -->
     <header class="header">
         <div class="header-align">
             <div class="header-logo">
@@ -29,13 +33,11 @@
                 <span><a href="#"><img src="./img/shoppingcart_white.png" id="shoppingcart"></a></span>
             </div>
         </div>
-
         <div class="shopping">
             <span id="wholebean"><a href="#">원두</a></span>
             <!-- onmouseover 써볼지? (javascript)-->
             <span id="stickcoffee"><a href="#">스틱커피</a></span>
             <span id="capsulecoffee"><a href="#">캡슐커피</a></span>
-
         </div>
     </header>
 
@@ -76,9 +78,8 @@
         </p>
 
     </div>
-      
+    
     <!-- login end -->
-
     <footer>
         <div class="footer">
             <ul class="footer-list-box">
@@ -90,7 +91,5 @@
         </div>
     </footer>
 </body>
-<script>
 
-</script>
 </html>
